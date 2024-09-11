@@ -1,23 +1,23 @@
-#Инструкция по работе с Git
+# Инструкция по работе с Git
 
-##Основные команды
+## Основные команды
 
-### git init
+#### git init
 
-### git add <file>
+#### git add <file>
 
-### git commit -m "Message"
+#### git commit -m "Message"
 
-### git status
+#### git status
 
-### git log
+#### git log
 
-### git branch <branch-name>
+#### git branch <branch-name>
 
-### git checkout <branch-name>
+#### git checkout <branch-name>
 
-### git merge <branch-name>
+#### git merge <branch-name>
 
-### git push origin <branch-name>
+#### git push origin <branch-name>
 
-### git pull origin <branch-name>
+#### git pull origin <branch-name>
