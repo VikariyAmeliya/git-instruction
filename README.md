@@ -21,9 +21,9 @@
 #### git push origin <branch-name>
 
 #### git pull origin <branch-name>
-```mermaid
-HEAD -- это голова.
-Коммит -- это всему голова.
+
+#####HEAD -- это голова.
+#####Коммит -- это всему голова.
 
 ```mermaid
 graph LR;
